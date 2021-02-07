@@ -1,5 +1,5 @@
 {
-  "name": "spine",
+  "name": "@mobilabs/spine",
   "version": "0.0.0-alpha.0",
   "description": "Spine ...",
   "main": "_dist/lib/spine.js",
